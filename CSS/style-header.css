@@ -1,7 +1,7 @@
 @font-face{
-    src: url(Mont-Regular.otf);
+    src: url(CSS/Mont-Regular.otf);
     font-family: Mont-Regular;
-    src: url(Roboto-Regular.ttf);
+    src: url(CSS/Roboto-Regular.ttf);
     font-family: Roboto-Regular;
 }
 
