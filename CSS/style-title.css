@@ -1,9 +1,9 @@
 @font-face{
-    src: url(..CSS/Mont-Regular.otf);
+    src: url(Mont-Regular.otf);
     font-family: Mont-Regular;
-    src:url(..CSS/Roboto-Regular.ttf);
+    src:url(Roboto-Regular.ttf);
     font-family: Roboto-Regular;
-    src: url(..CSS/Roboto-Thin.ttf);
+    src: url(Roboto-Thin.ttf);
     font-family: Roboto-thin;
 }
 
